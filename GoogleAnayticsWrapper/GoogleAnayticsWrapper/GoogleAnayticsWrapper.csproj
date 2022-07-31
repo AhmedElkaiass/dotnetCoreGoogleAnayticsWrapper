@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Google.Apis" Version="1.57.0" />
+		<PackageReference Include="Google.Apis.Analytics.v3" Version="1.57.0.1679" />
+		<PackageReference Include="Google.Apis.AnalyticsReporting.v4" Version="1.57.0.2484" />
+		<PackageReference Include="Google.Apis.Auth" Version="1.57.0" />
+		<PackageReference Include="Google.Apis.Books.v1" Version="1.57.0.2633" />
+		<PackageReference Include="Google.Apis.Discovery.v1" Version="1.57.0" />
+		<PackageReference Include="Google.Apis.Vision.v1" Version="1.57.0.2634" />
+		<PackageReference Include="RestSharp" Version="108.0.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+	</ItemGroup>
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+</Project>

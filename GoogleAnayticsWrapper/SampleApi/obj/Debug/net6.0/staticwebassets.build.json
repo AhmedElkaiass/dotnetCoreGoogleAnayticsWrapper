@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "A1gnxJIL+/hsQW1Dh2b+EH2JZHb55kla5EYL2gM8lf8=",
+  "Source": "SampleApi",
+  "BasePath": "_content/SampleApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleApi\\wwwroot",
+      "Source": "SampleApi",
+      "ContentRoot": "C:\\Users\\yamin\\source\\repos\\AhmedElkaiass\\open-source\\GoogleAnayticsWrapper\\SampleApi\\wwwroot\\",
+      "BasePath": "_content/SampleApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yamin\\source\\repos\\AhmedElkaiass\\open-source\\GoogleAnayticsWrapper\\SampleApi\\wwwroot\\Assets\\GoogleAnalytics\\key.json",
+      "SourceId": "SampleApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamin\\source\\repos\\AhmedElkaiass\\open-source\\GoogleAnayticsWrapper\\SampleApi\\wwwroot\\",
+      "BasePath": "_content/SampleApi",
+      "RelativePath": "Assets/GoogleAnalytics/key.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\GoogleAnalytics\\key.json"
+    }
+  ]
+}

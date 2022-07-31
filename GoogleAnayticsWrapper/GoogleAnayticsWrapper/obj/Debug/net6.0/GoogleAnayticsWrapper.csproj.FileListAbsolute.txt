@@ -1,0 +1,12 @@
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\bin\Debug\net6.0\GoogleAnayticsWrapper.deps.json
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\bin\Debug\net6.0\GoogleAnayticsWrapper.dll
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\bin\Debug\net6.0\ref\GoogleAnayticsWrapper.dll
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\bin\Debug\net6.0\GoogleAnayticsWrapper.pdb
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.csproj.AssemblyReference.cache
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.AssemblyInfoInputs.cache
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.AssemblyInfo.cs
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.csproj.CoreCompileInputs.cache
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.dll
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\ref\GoogleAnayticsWrapper.dll
+C:\Users\yamin\source\repos\AhmedElkaiass\open-source\GoogleAnayticsWrapper\GoogleAnayticsWrapper\obj\Debug\net6.0\GoogleAnayticsWrapper.pdb
