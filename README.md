@@ -5,7 +5,7 @@ here is a very sample api wrapper that you will need to add it to you'r project 
 # getting started 
 1 - create an google analytics account from https://analytics.google.com
 
-2 - go to google console https://console.cloud.google.com/ and create an project 
+2 - go to google console https://console.cloud.google.com/ and create a new  project 
 
 3 - from goolgel console go to apis & services > Credentials
 
