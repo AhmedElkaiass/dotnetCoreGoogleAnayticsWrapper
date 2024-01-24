@@ -3,7 +3,7 @@ this is a very smiple powerful demo app for Google Anaytics repots
 now day's every web app have to get connected with https://analytics.google.com
 here is a very sample api wrapper that you will need to add it to you'r project to provide some of roports about uses to your admin's 
 # getting started 
-1 - create an google analytics account from https://analytics.google.com
+1 - create an google analytics account with https://analytics.google.com
 
 2 - go to google console https://console.cloud.google.com/ and create a new  project 
 
